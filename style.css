@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.first{
+    text-align: center;
+    background-color: red;
+    height:100px;
+}
+
+
+.second{
+    text-align: center;
+    background-color:orange;
+    height:100px;
+}
+
+.third{
+    text-align: center;
+    background-color: yellow;
+    height:100px;
+}
+.fourth{
+    text-align: center;
+    background-color: green;
+    height:100px;
+}
+
+.fifth{
+    text-align: center;
+    background-color: blue;
+    height:100px;
+}.six{
+    text-align: center;
+    background-color: indigo;
+    height:100px;
+}.seven{
+    text-align: center;
+    background-color:violet;
+    height:100px;
+}
